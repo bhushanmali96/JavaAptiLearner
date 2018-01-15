@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Java &amp; Apti Learner</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_my_first_app">Welcome to my First App</string>
+    <string name="java_basics">JAVA BASICS</string>
+    <string name="aptitude">Aptitude</string>
+    <string name="credits">Credits</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        " Features :>
+        1)Object Oriented \n
+    2)Simple :- No Structure, Unions, Operator Overloading and Virtual Base Class.\n
+    3)Robust :- Error Identification\n
+    4)Distributed\n
+    5)Secure\n
+    6)Architectural Neutral \n
+    7)Portable \n
+    8)Interpreted \n
+    9)Multi Threaded \n
+    \n
+        Static Variable :- Maintains a single copy irrespective of number of objects created for the
+        class. \n\n
+
+      Accessor and Mutator \n
+        *For Saving Heap Memory \n
+        *Per variable different setter method is been used. \n\n
+
+        Final Variable :- Specific Value throughout program.(hint:Variable name in Capital Letter
+        Only) \n\n
+
+        Super Keyword : It must be first statement in subclass constructor. \n
+        *To call base class constructor. \n
+        *To differentiate variales of Base and Derived class. \n
+        *To call method of base class. \n\n
+
+        Abstract Class :- \n
+        1) It contains abstract as well as non-abstract methods in it. \n
+        2) No object creation. \n
+        3) It can not be final compulsory. \n\n
+
+        Concrete Class :- \n
+        1) It contains only concrete defined method. \n
+        2) Object can be created. \n
+        3) It can be final class. \n\n
+
+        Interface :- To Achieve role based Inheritance and loose coupling. \n
+        1) Support multiple inheritance.\n
+        2) Contains only abstract methods.\n
+        3) Not contains constructor or Main Method. \n\n
+
+        Object Class Methods : - \n
+        1) String toString() :- Prints the value of object. \n
+        2) Finalize() :- Before Garbage Collection Thread. \n
+        3) equals() :- Check equality of Memory Location. \n
+        4) Object clone() :- Created copy of object. \n
+        5) int hashcode()
+        6) Class getClass()
+        7) void wait()
+        8) void notify()
+        9) void notifyall()\n\n
+
+        Class-Class -> Extends \n
+        Class-Interface -> Implements \n
+        Interface-Interface -> Extends \n
+        interface-Class -> No relation \n\n  "
+
+
+
+    </string>
+    <string name="title_activity_java__basics">Java_Basics</string>
+    <string name="features_of_java">"Features of Java" \n
+    )
+    </string>
+    <string name="trains">Trains</string>
+    <string name="ages">Ages</string>
+    <string name="time_and_work">Time and Work</string>
+    <string name="averages">Averages</string>
+    <string name="train_formulae">Train Formulae:</string>
+    <string name="thank_you">Thank You</string>
+</resources>
